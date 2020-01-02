@@ -1,0 +1,19 @@
+body
+{
+background : url('a.jpg');
+}
+h2
+{font-family:comic sans ms text;
+background-color:rgb(179, 141, 194);
+}
+table
+{background:white
+}
+.td {
+font-weight:bold;
+}
+.dashed
+{
+border-style:dashed;
+border-color:pink;
+}
